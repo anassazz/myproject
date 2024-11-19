@@ -22,6 +22,6 @@ int main()
     scanf("%d",&phone);
 
     printf("\nFull Name : %s %s , Age : %d Ans , Sexe : %s , Tele : %d\n", name, prenom, age, sexe, phone);
-
+hh
     return 0;
 }
